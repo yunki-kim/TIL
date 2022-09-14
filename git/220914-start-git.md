@@ -7,7 +7,7 @@
 - Markdown
 - Git
 
-### 요약 정리
+### 배운 내용
 
 #### Shell Command
 - cd : Change Directory
