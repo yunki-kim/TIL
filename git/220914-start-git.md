@@ -7,7 +7,7 @@
 - Markdown
 - Git
 
-### 배운 내용
+### 배운 내용 정리
 
 #### Shell Command
 - cd : Change Directory
@@ -22,7 +22,7 @@
 - i : insert mode
 - esc : normal mode
 - ':' : command mode
-- h, j ,k, l : left, down, up, rigth
+- h, j ,k, l : left, down, up, right
 - y : yank
 - p : paste
 - d : delete (dd : delete a line)
@@ -34,4 +34,7 @@
 - git add : working directory -> staging area 
 - git commit : staging area -> local repo
 - git push : local repo -> remote repo
+- git branch : branch 목록
+- git switch : branch 변경
+- git merge branchName : branch 병합 (끌어당기는 구조)
 
