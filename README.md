@@ -8,3 +8,4 @@ Today I Learned.
 - [220919-java-start](https://github.com/yunki-kim/TIL/blob/main/java/220919-java-start.md)
 - [220920-java-contidional-loop](https://github.com/yunki-kim/TIL/blob/main/java/220920-java-conditional-loop.md)
 - [220921-java-oop-start](https://github.com/yunki-kim/TIL/blob/main/java/220921-java-oop-start.md)
+- [220922-java-static](https://github.com/yunki-kim/TIL/blob/main/java/220922-java-static.md)
