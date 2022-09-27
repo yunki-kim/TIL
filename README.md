@@ -10,3 +10,5 @@ Today I Learned.
 - [220921-java-oop-start](https://github.com/yunki-kim/TIL/blob/main/java/220921-java-oop-start.md)
 - [220922-java-static](https://github.com/yunki-kim/TIL/blob/main/java/220922-java-static.md)
 - [220923-java-overriding](https://github.com/yunki-kim/TIL/blob/main/java/220923-java-overriding.md)
+- [220926-java-review.md](https://github.com/yunki-kim/TIL/blob/main/java/220926-java-review.md)
+- [220927-java-review.md](https://github.com/yunki-kim/TIL/blob/main/java/220926-java-review.md)
