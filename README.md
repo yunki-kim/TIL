@@ -12,3 +12,4 @@ Today I Learned.
 - [220923-java-overriding](https://github.com/yunki-kim/TIL/blob/main/java/220923-java-overriding.md)
 - [220926-java-review.md](https://github.com/yunki-kim/TIL/blob/main/java/220926-java-review.md)
 - [220927-java-review.md](https://github.com/yunki-kim/TIL/blob/main/java/220926-java-review.md)
+- [220928-java-review-polymorphism](https://github.com/yunki-kim/TIL/blob/main/java/220928-java-review-polymorphism.md)
