@@ -14,4 +14,9 @@ Today I Learned.
 - [220927-java-review.md](https://github.com/yunki-kim/TIL/blob/main/java/220926-java-review.md)
 - [220928-java-review-polymorphism](https://github.com/yunki-kim/TIL/blob/main/java/220928-java-review-polymorphism.md)
 - [220929-java-template](https://github.com/yunki-kim/TIL/blob/main/java/220929-java-template.md)
+- [220930-java-interface](https://github.com/yunki-kim/TIL/blob/main/java/220930-java-interface.md)
+<br/>
+
+## 2022.10
+- [221004-java-study](https://github.com/yunki-kim/TIL/blob/main/java/221004-java-study.md)
 
