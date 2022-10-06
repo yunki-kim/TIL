@@ -19,4 +19,6 @@ Today I Learned.
 
 ## 2022.10
 - [221004-java-study](https://github.com/yunki-kim/TIL/blob/main/java/221004-java-study.md)
+- [221005-java-study-oop](https://github.com/yunki-kim/TIL/blob/main/java/221005-java-study-oop.md)
+- [221006-java-assignment](https://github.com/yunki-kim/TIL/blob/main/java/221006-java-assignment.md)
 
