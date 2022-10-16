@@ -27,4 +27,5 @@ Today I Learned.
 - [221013-java-study-oop](https://github.com/yunki-kim/TIL/blob/main/java/221013-java-study-oop.md)
 - [221014-java-study-oop](https://github.com/yunki-kim/TIL/blob/main/java/221014-java-study-oop.md)
 - [221015-java-object](https://github.com/yunki-kim/TIL/blob/main/java/221015-java-object.md)
+- [221016-java-data-structure](https://github.com/yunki-kim/TIL/blob/main/java/221016-java-data-structure.md)
 
