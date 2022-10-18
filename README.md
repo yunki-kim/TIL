@@ -28,4 +28,6 @@ Today I Learned.
 - [221014-java-study-oop](https://github.com/yunki-kim/TIL/blob/main/java/221014-java-study-oop.md)
 - [221015-java-object](https://github.com/yunki-kim/TIL/blob/main/java/221015-java-object.md)
 - [221016-java-data-structure](https://github.com/yunki-kim/TIL/blob/main/java/221016-java-data-structure.md)
+- [221017-java-collection](https://github.com/yunki-kim/TIL/blob/main/java/221017-java-collection.md)
+- [221018-java-servlet-jsp](https://github.com/yunki-kim/TIL/blob/main/java/221018-java-servlet-jsp.md)
 
