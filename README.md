@@ -35,4 +35,5 @@ Today I Learned.
 - [221021-java-project](https://github.com/yunki-kim/TIL/blob/main/java/221021-java-projcet.md)
 - [221023-java-study-oop](https://github.com/yunki-kim/TIL/blob/main/java/221023-java-study-oop.md)
 - [221024-spring-start](https://github.com/yunki-kim/TIL/blob/main/spring/221024-spring-start.md)
+- [221025-java-exception](https://github.com/yunki-kim/TIL/blob/main/java/221025-java-exception.md)
 
