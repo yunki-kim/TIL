@@ -38,4 +38,5 @@ Today I Learned.
 - [221025-java-exception](https://github.com/yunki-kim/TIL/blob/main/java/221025-java-exception.md)
 - [221026-java-logger](https://github.com/yunki-kim/TIL/blob/main/java/221026-java-logger.md)
 - [221027-java-io](https://github.com/yunki-kim/TIL/blob/main/java/221027-java-io.md)
+- [221031-spring-run](https://github.com/yunki-kim/TIL/blob/main/spring/221031-spring-run.md)
 
