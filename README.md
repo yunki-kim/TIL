@@ -54,4 +54,5 @@ Today I Learned.
 - [221111-spring-project](https://github.com/yunki-kim/TIL/blob/main/spring/221111-spring-project.md)
 - [221114-java-workshop](https://github.com/yunki-kim/TIL/blob/main/java/221114-java-workshop.md)
 - [221115-spring-review](https://github.com/yunki-kim/TIL/blob/main/spring/221115-spring-review.md)
+- [221116-spring-session](https://github.com/yunki-kim/TIL/blob/main/spring/221116-spring-session.md)
 
