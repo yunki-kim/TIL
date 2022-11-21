@@ -56,4 +56,6 @@ Today I Learned.
 - [221115-spring-review](https://github.com/yunki-kim/TIL/blob/main/spring/221115-spring-review.md)
 - [221116-spring-session](https://github.com/yunki-kim/TIL/blob/main/spring/221116-spring-session.md)
 - [221117-spring-di](https://github.com/yunki-kim/TIL/blob/main/spring/221117-spring-di.md)
+- [221118-spring-db](https://github.com/yunki-kim/TIL/blob/main/spring/221118-spring-db.md)
+- [221121-spring-aop](https://github.com/yunki-kim/TIL/blob/main/spring/221121-spring-aop.md)
 
