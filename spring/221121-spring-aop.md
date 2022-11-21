@@ -46,7 +46,7 @@
 - readOnly : Tx이 데이터를 **읽기만** 하는 경우, true로 지정하면 성능 향상
 - rollbackFor : 지정된 예외가 발생하면, tx을 rollback (RuntimeException과 Error은 자동 rollback)
 - propagation : Tx의 경계를 설정하는 방법을 지정
-> REQUIRED : (Default) Tx이 진행중이면 참여, 없으면 새로운 Tx 시작
-> REQUIRES_NEW : Tx이 진행 중이건 아니건, 새로 Tx 시작 (다른 Tx)
-> NESTED : Tx이 진행 중이면, Tx의 내부 Tx로 실행 (같은 Tx)
-
+> REQUIRED : (Default) Tx이 진행중이면 참여, 없으면 새로운 Tx 시작 <br/>
+> REQUIRES_NEW : Tx이 진행 중이건 아니건, 새로 Tx 시작 (다른 Tx) <br/>
+> NESTED : Tx이 진행 중이면, Tx의 내부 Tx로 실행 (같은 Tx) <br/>
+<br/>
