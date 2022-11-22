@@ -58,4 +58,5 @@ Today I Learned.
 - [221117-spring-di](https://github.com/yunki-kim/TIL/blob/main/spring/221117-spring-di.md)
 - [221118-spring-db](https://github.com/yunki-kim/TIL/blob/main/spring/221118-spring-db.md)
 - [221121-spring-aop](https://github.com/yunki-kim/TIL/blob/main/spring/221121-spring-aop.md)
+- [221122-spring-mybatis](https://github.com/yunki-kim/TIL/blob/main/spring/221122-spring-mybatis.md)
 
