@@ -62,4 +62,5 @@ Today I Learned.
 - [221123-spring-mybatis](https://github.com/yunki-kim/TIL/blob/main/spring/221123-spring-mybatis.md)
 - [221125-spring-restapi](https://github.com/yunki-kim/TIL/blob/main/spring/221125-spring-restapi.md)
 - [221127-spring-review](https://github.com/yunki-kim/TIL/blob/main/spring/221127-spring-review.md)
+- [221128-algorithm-array](https://github.com/yunki-kim/TIL/blob/main/algorithm/221128-algorithm-array.md)
 
