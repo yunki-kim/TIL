@@ -69,4 +69,5 @@ Today I Learned.
 
 ## 2022.12
 - [221201-algorithm-linkedlist](https://github.com/yunki-kim/TIL/blob/main/algorithm/221201-algorithm-linkedlist.md)
+- [221202-algorithm-linkedlist](https://github.com/yunki-kim/TIL/blob/main/algorithm/221202-algorithm-linkedlist.md)
 
