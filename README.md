@@ -73,4 +73,5 @@ Today I Learned.
 - [221205-algorithm-complexity](https://github.com/yunki-kim/TIL/blob/main/algorithm/221205-algorithm-complexity.md)
 - [221207-algorithm-hash](https://github.com/yunki-kim/TIL/blob/main/algorithm/221207-algorithm-hash.md)
 - [221208-algorithm-tree](https://github.com/yunki-kim/TIL/blob/main/algorithm/221208-algorithm-tree.md)
+- [221209-algorithm-tree](https://github.com/yunki-kim/TIL/blob/main/algorithm/221209-algorithm-tree.md)
 
