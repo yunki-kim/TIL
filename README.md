@@ -74,4 +74,6 @@ Today I Learned.
 - [221207-algorithm-hash](https://github.com/yunki-kim/TIL/blob/main/algorithm/221207-algorithm-hash.md)
 - [221208-algorithm-tree](https://github.com/yunki-kim/TIL/blob/main/algorithm/221208-algorithm-tree.md)
 - [221209-algorithm-tree](https://github.com/yunki-kim/TIL/blob/main/algorithm/221209-algorithm-tree.md)
+- [221210-algorithm-review](https://github.com/yunki-kim/TIL/blob/main/algorithm/221210-algorithm-review.md)
+- [221211-algorithm-heap](https://github.com/yunki-kim/TIL/blob/main/algorithm/221211-algorithm-heap.md)
 
