@@ -80,4 +80,5 @@ Today I Learned.
 - [221213-algorithm-review](https://github.com/yunki-kim/TIL/blob/main/algorithm/221213-algorithm-review.md)
 - [221214-algorithm-review](https://github.com/yunki-kim/TIL/blob/main/algorithm/221214-algorithm-review.md)
 - [221215-algorithm-review](https://github.com/yunki-kim/TIL/blob/main/algorithm/221215-algorithm-review.md)
+- [221216-algorithm-review](https://github.com/yunki-kim/TIL/blob/main/algorithm/221216-algorithm-review.md)
 
