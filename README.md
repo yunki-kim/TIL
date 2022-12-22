@@ -84,4 +84,4 @@ Today I Learned.
 - [221219-java-review](https://github.com/yunki-kim/TIL/blob/main/java/221219-java-review.md)
 - [221220-java-review](https://github.com/yunki-kim/TIL/blob/main/java/221220-java-review.md)
 - [221221-java-review](https://github.com/yunki-kim/TIL/blob/main/java/221221-java-review.md)
-
+- [221222-java-review](https://github.com/yunki-kim/TIL/blob/main/java/221222-java-review.md)
