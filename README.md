@@ -98,4 +98,5 @@ Today I Learned.
 - [230103-spring-review](https://github.com/yunki-kim/TIL/blob/main/spring/230103-spring-review.md)
 - [230104-spring-review](https://github.com/yunki-kim/TIL/blob/main/spring/230104-spring-review.md)
 - [230105-spring-review](https://github.com/yunki-kim/TIL/blob/main/spring/230105-spring-review.md)
+- [230106-java-review](https://github.com/yunki-kim/TIL/blob/main/java/230106-java-review.md)
 
