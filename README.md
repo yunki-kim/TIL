@@ -154,7 +154,8 @@ Today I Learned.
 - [230309-spring-study](https://github.com/yunki-kim/TIL/blob/main/spring/230309-spring-study.md)
 - [230310-spring-study](https://github.com/yunki-kim/TIL/blob/main/spring/230310-spring-study.md)
 - [230313-spring-study](https://github.com/yunki-kim/TIL/blob/main/spring/230313-spring-study.md)
-- [230314-spring-study](https://github.com/yunki-kim/TIL/blob/main/spring/230344-spring-study.md)
+- [230314-spring-study](https://github.com/yunki-kim/TIL/blob/main/spring/230314-spring-study.md)
+- [230315-spring-study](https://github.com/yunki-kim/TIL/blob/main/spring/230315-spring-study.md)
 
 
 
