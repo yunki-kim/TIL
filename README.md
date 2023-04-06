@@ -176,6 +176,7 @@ Today I Learned.
 - [230402-java-review](https://github.com/yunki-kim/TIL/blob/main/java/230402-java-review.md)
 - [230404-spring-project](https://github.com/yunki-kim/TIL/blob/main/spring/230404-spring-project.md)
 - [230405-spring-project](https://github.com/yunki-kim/TIL/blob/main/spring/230405-spring-project.md)
+- [230406-spring-project](https://github.com/yunki-kim/TIL/blob/main/spring/230406-spring-project.md)
 
 
 
