@@ -191,6 +191,7 @@ Today I Learned.
 - [230419-algorithm-study](https://github.com/yunki-kim/TIL/blob/main/algorithm/230419-algorithm-study.md)
 - [230420-algorithm-study](https://github.com/yunki-kim/TIL/blob/main/algorithm/230420-algorithm-study.md)
 - [230421-algorithm-study](https://github.com/yunki-kim/TIL/blob/main/algorithm/230421-algorithm-study.md)
+- [230422-algorithm-study](https://github.com/yunki-kim/TIL/blob/main/algorithm/230422-algorithm-study.md)
 
 
 
