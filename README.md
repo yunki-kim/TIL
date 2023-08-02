@@ -232,6 +232,11 @@ Today I Learned.
 - [230727-spring-study](https://github.com/yunki-kim/TIL/blob/main/spring/230727-spring-study.md)
 - [230728-spring-study](https://github.com/yunki-kim/TIL/blob/main/spring/230728-spring-study.md)
 - [230729-spring-study](https://github.com/yunki-kim/TIL/blob/main/spring/230729-spring-study.md)
+- [230730-spring-study](https://github.com/yunki-kim/TIL/blob/main/spring/230730-spring-study.md)
+<br>
+
+## 2023.08
+- [230802-spring-study](https://github.com/yunki-kim/TIL/blob/main/spring/230802-spring-study.md)
 
 
 
