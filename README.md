@@ -244,5 +244,10 @@ Today I Learned.
 - [230813-spring-study](https://github.com/yunki-kim/TIL/blob/main/spring/230813-spring-study.md)
 - [230814-spring-study](https://github.com/yunki-kim/TIL/blob/main/spring/230814-spring-study.md)
 - [230824-spring-study](https://github.com/yunki-kim/TIL/blob/main/spring/230824-spring-study.md)
+<br>
+
+## 2024.08
+- [240813-java-study](https://github.com/yunki-kim/TIL/blob/main/spring/240813-java-study.md)
+
 
 
